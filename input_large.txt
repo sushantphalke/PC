@@ -1,0 +1,13 @@
+This is the first line of text.
+The quick brown fox jumps over the lazy dog.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Finding patterns in strings is a useful skill.
+This line contains the pattern we are looking for .
+Another random line without the pattern.
+Patterns can be hidden among many lines.
+Yet another line without our search term.
+Sometimes patterns are easy to find.
+The quick brown fox is not the only animal.
+A second occurrence of the pattern we are looking for.
+Do patterns really exist in this file?
+Patterns are everywhere if you know where to look.
