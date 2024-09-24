@@ -4,7 +4,7 @@
 #include <string.h>
 
 #define CHUNK_SIZE 1024
-#define PATTERN "pattern we are looking for" // Change this to the pattern you want to search for
+#define PATTERN "pattern we are looking for" // pattern you want to search for
 
 void find_pattern_in_chunk(char *chunk, int start_line, int rank) {
     char *line = strtok(chunk, "\n");
